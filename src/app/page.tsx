@@ -27,11 +27,11 @@ export default function Home() {
         <h2 className="font-bold text-6xl text-white font-inter pt-20" >
           Hi! 👋
         </h2>
-        <div className="flex flex-row items-center">
-          <h2 className="font-bold text-2xl text-white font-inter pt-5" >
+        <div className="flex flex-row items-center pt-8">
+          <h2 className="font-bold text-2xl text-white font-inter" >
             My name is Ryan Flynn and I like to
           </h2>
-          <h2 className="font-bold text-2xl text-white font-inter">
+          <h2 className="font-bold text-2xl text-white font-inter px-1">
           {titles[title]}
           </h2>
         </div>

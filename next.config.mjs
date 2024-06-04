@@ -9,6 +9,8 @@ const nextConfig = {
 
     return config
   },
+  output: "export",
+  basePath: "/portfolio-2024",
 };
 
 export default nextConfig;

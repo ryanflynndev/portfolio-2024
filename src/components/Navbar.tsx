@@ -12,9 +12,9 @@ export default function Navbar() {
                                 <Image 
                                     className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300"
                                     priority
-                                    src="/svgs/rfLogo.svg"
-                                    height={64}
-                                    width={64}
+                                    src="/svgs/logo.svg"
+                                    height={48}
+                                    width={48}
                                     alt="Ryan Flynn Logo"
                                 />
                             </a>
